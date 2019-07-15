@@ -11,7 +11,7 @@ key: 115qFYuQ4pPlifqZze0QkDORLwVufanGIfC
 ```
 
 `@assignment1`
-Which command explicitly imports the `pyplot` subpackage from `matplotlib`?
+Which command explicitly imports the `pyplot` subpackage from `matplotlib`?!
 
 `@assignment2`
 Assuming `matplotlib.pyplot` is imported as `plt`, which command displays the current figure?
